@@ -1,0 +1,2 @@
+# rust_snippet
+Rustのスニペット
