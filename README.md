@@ -1,2 +1,2 @@
-# rust_snippet
+# rust-snippet
 Rustのスニペット
